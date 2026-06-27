@@ -1,27 +1,18 @@
-ShopList CaSa - sito stile Listonic
+ShopList CaSa - aggiornamento finale sito
 
-Questo pacchetto contiene un piccolo sito statico multipagina:
-- index.html
-- faq.html
-- privacy.html
-- funzioni/*.html
-- assets/*.png
-- style.css
-- script.js
+Aggiunti:
+- support.html
+- download.html
+- robots.txt
+- sitemap.xml
+- site.webmanifest
+- stili per supporto/download
 
-Per provarlo:
-Apri index.html nel browser.
+Carica o sostituisci tutti questi file nel repository GitHub:
+https://github.com/maxsti/shoplistcasa
 
-Per pubblicarlo su GitHub Pages:
-1. Crea un repository pubblico, per esempio shoplistcasa.
-2. Carica TUTTI i file e cartelle presenti in questo pacchetto nella root del repository.
-3. Vai in Settings -> Pages.
-4. Scegli Deploy from a branch.
-5. Branch main, folder /root.
-6. Salva.
-
-Link Play Store configurato:
-https://play.google.com/store/apps/details?id=io.shoplistcasa.app
-
-Email supporto:
-massimo.stillo@gmail.com
+Verifica poi:
+https://maxsti.github.io/shoplistcasa/
+https://maxsti.github.io/shoplistcasa/support.html
+https://maxsti.github.io/shoplistcasa/download.html
+https://maxsti.github.io/shoplistcasa/sitemap.xml

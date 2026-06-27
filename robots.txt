@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maxsti.github.io/shoplistcasa/sitemap.xml
